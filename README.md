@@ -1,1 +1,2 @@
-# ObrazM
+# Obraz serwera
+
